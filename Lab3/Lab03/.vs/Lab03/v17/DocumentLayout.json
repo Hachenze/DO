@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Lab03\\SMCalculator.cs",
               "ToolTip": "D:\\Univer\\3kurs\\DO\\Lab3\\Lab03\\Lab03\\SMCalculator.cs",
               "RelativeToolTip": "Lab03\\SMCalculator.cs",
-              "ViewState": "AQIAAEwCAAAAAAAAAAAAAHYAAAAUAAAA",
+              "ViewState": "AQIAADcCAAAAAAAAAAAAAHYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T16:54:15.248Z",
               "IsPinned": true,
@@ -52,8 +52,7 @@
               "RelativeToolTip": "Lab03\\HomoryCalculator.cs",
               "ViewState": "AQIAAPAAAAAAAAAAAAAAAOIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:58:16.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T16:58:16.586Z"
             },
             {
               "$type": "Document",
@@ -65,8 +64,7 @@
               "RelativeToolTip": "Lab03\\DSMCalculator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwBAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:54:58.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T16:54:58.838Z"
             },
             {
               "$type": "Document",
@@ -78,8 +76,7 @@
               "RelativeToolTip": "Lab03\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:52:15.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T16:52:15.133Z"
             }
           ]
         }
